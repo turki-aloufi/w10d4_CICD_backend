@@ -1,0 +1,6 @@
+@w10d4_CICD_HostAddress = http://localhost:5124
+
+GET {{w10d4_CICD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

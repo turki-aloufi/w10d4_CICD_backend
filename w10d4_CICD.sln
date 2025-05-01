@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w10d4_CICD", "w10d4_CICD\w10d4_CICD.csproj", "{75F0FAA8-51F6-42E4-940A-2C13D3B2DFFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "w10d4_CICD", "w10d4_CICD\w10d4_CICD.csproj", "{75F0FAA8-51F6-42E4-940A-2C13D3B2DFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w10d4_cicd.test", "w10d4_cicd.test\w10d4_cicd.test.csproj", "{CE013FAF-DE67-4D23-9715-0F47DA99B98E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{75F0FAA8-51F6-42E4-940A-2C13D3B2DFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75F0FAA8-51F6-42E4-940A-2C13D3B2DFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75F0FAA8-51F6-42E4-940A-2C13D3B2DFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE013FAF-DE67-4D23-9715-0F47DA99B98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE013FAF-DE67-4D23-9715-0F47DA99B98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE013FAF-DE67-4D23-9715-0F47DA99B98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE013FAF-DE67-4D23-9715-0F47DA99B98E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
